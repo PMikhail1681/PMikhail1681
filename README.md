@@ -12,6 +12,29 @@
 [![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rakun1681@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/michael1681/)
 
+</div>
+
+
+
+-----
+
+
+ <br>
+ <br>
+ <p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PMikhail1681&layout=compact&hide=html&theme=dracula"/>
+ 
+  
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=PMikhail1681&count_private=true&show_icons=true&theme=dracula&include_all_commits=true"/>
+  </P><br>
+  
+ 
+ 
+ 
+----------------
+
+
+
 
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PMikhail1681&show_icons=true&theme=radical)
