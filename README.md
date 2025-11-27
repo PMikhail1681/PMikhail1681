@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi!+I'm+Mikhail+SEO•Web•Digital+Creator)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+Mikhail+SEO•Web•Digital+Creator)](https://git.io/typing-svg)
 
 ![code](https://github.com/PMikhail1681/PMikhail1681/assets/136488242/ca7f4693-2daa-4684-9d00-5bf5fe0e08e8)
 
